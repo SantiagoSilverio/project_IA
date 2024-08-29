@@ -157,8 +157,3 @@ emociones_grande.csv: Archivo CSV con datos de entrenamiento.
 modelo_emociones.h5: Archivo para guardar el modelo entrenado.
 feedback_emociones.csv: Archivo para guardar datos de retroalimentación.
 notebooks/: Carpeta opcional para notebooks de Jupyter o Google Colab.
-Contribuciones
-Si deseas contribuir al proyecto, por favor, envía un pull request o abre un issue para discutir los cambios que quieres proponer.
-
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
